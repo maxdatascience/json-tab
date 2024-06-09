@@ -134,6 +134,10 @@ pyvenv.cfg
 lib64
 *.code-workspace
 share/
+<<<<<<< HEAD
+=======
+etc/
+>>>>>>> e1cec0a (Initial commit)
 
 # Spyder project settings
 .spyderproject

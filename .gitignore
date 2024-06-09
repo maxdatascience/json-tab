@@ -132,6 +132,8 @@ venv.bak/
 bin/
 pyvenv.cfg
 lib64
+*.code-workspace
+share/
 
 # Spyder project settings
 .spyderproject
